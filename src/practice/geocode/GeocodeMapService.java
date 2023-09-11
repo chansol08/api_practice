@@ -16,8 +16,8 @@ import java.util.Date;
 public class GeocodeMapService implements ActionListener {
 
     //요청에 필요한 키 값
-    private static final String CLIENT_ID = "lglo3n0j8q";
-    private static final String CLIENT_SECRET = "ugoArZ1irguDyuInUXFwxHNDFLoO7MXSMRFpA0Ah";
+    private static final String CLIENT_ID = "*********";
+    private static final String CLIENT_SECRET = "******************";
 
     MapGUI naverMap;
 
